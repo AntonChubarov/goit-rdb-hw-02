@@ -63,3 +63,11 @@
 | Melnyk     | Khreschatyk 1    |
 | Shevchenko | Baseyna 2        |
 | Kovalenko  | Compyuterna 3    |
+
+### ER Diagram
+
+![ER Diagram](./screenshots/p4_er_diagram_crop.png)
+
+### Database Schema
+
+![DB Schema](./screenshots/p5_database_schema_crop.png)
