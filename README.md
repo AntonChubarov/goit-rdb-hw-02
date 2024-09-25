@@ -41,11 +41,11 @@
 
 #### Orders table
 
-| order_number | order_date | customer   |
-|--------------|------------|------------|
-| 101          | 2023-03-15 | Melnyk     |
-| 102          | 2023-03-16 | Shevchenko |
-| 103          | 2023-03-17 | Kovalenko  |
+| order_number | order_date | customer_id |
+|--------------|------------|-------------|
+| 101          | 2023-03-15 | 1           |
+| 102          | 2023-03-16 | 2           |
+| 103          | 2023-03-17 | 3           |
 
 #### OrderItems table 
 
@@ -58,11 +58,11 @@
 
 #### Customers table
 
-| customer   | customer_address |
-|------------|------------------|
-| Melnyk     | Khreschatyk 1    |
-| Shevchenko | Baseyna 2        |
-| Kovalenko  | Compyuterna 3    |
+| customer_id | customer_name | customer_address |
+|-------------|---------------|------------------|
+| 1           | Melnyk        | Khreschatyk 1    |
+| 2           | Shevchenko    | Baseyna 2        |
+| 3           | Kovalenko     | Compyuterna 3    |
 
 ### ER Diagram
 
